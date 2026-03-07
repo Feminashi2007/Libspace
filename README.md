@@ -4,10 +4,17 @@ LibSpace is a backend API project designed to teach the fundamentals of authenti
 👥 Team Members
 This project was collaboratively developed by:
 
+
 Feminashi B (Team Lead)
+
 Hemadharshini s (Member)
+
 Dhivyashree M.M (Member)
+
 Jayanthara v (Member)
+
+
+
 🚀 About the Project
 Key Features
 Secure User Authentication: User registration, secure login with password hashing, account deletion, and safe logout functionality.
