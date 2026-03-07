@@ -48,7 +48,6 @@ npm (Node Package Manager)
 MongoDB (Local server or MongoDB Atlas URI)
 Installation & Setup
 Clone the repository
-git clone [https://github.com/Carlous1010/libspace-api.git](https://github.com/Carlous1010/libspace-api.git)
 cd libspace-api
 Install dependencies npm install
 
