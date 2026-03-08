@@ -1,42 +1,45 @@
-# LibSpace - A Robust Backend for Library Operations
+# **LibSpace - A Robust Backend for Library Operations**
 
-LibSpace is a backend API project designed to teach the fundamentals of authentication and CRUD operations using Node.js, Express, and MongoDB. The system allows users to securely register and log in to receive a JSON Web Token (JWT). Authenticated users can then manage a digital library by adding new books, viewing the entire collection, fetching specific books by ID, updating book details, and deleting entries, ensuring that sensitive data modification is protected by secure token verification.
+                  LibSpace is a backend API project designed to teach the fundamentals of authentication and CRUD operations using Node.js, Express, and MongoDB. The system allows users to securely register and log in to receive a JSON Web Token (JWT). Authenticated users can then manage a digital library by adding new books, viewing the entire collection, fetching specific books by ID, updating book details, and deleting entries, ensuring that sensitive data modification is protected by secure token verification.
 
-👥 Team Members
-
+👥 **Team Members**
 This project was collaboratively developed by:
 
 
-Feminashi B (Team Lead)
+**Feminashi B** (Team Lead)
 
-Hemadharshini s (Member)
+**Hemadharshini s** (Member)
 
-Dhivyashree M.M (Member)
+**Dhivyashree M.M** (Member)
 
-Jayanthara v (Member)
+**Jayanthara v**(Member)
 
 
-
-🚀 About the Project
+🚀 **About the Project**
 
 Key Features
 
-Secure User Authentication: User registration, secure login with password hashing, account deletion, and safe logout functionality.
-Library Management (CRUD): * Create: Add new books to the database.
-Read: View a list of all available books or search for a specific book by its ID.
-Update: Modify existing book details.
-Delete: Remove books from the library collection.
-Route Protection: All library modification routes are strictly protected by JSON Web Token (JWT) verification.
+**Secure User Authentication:** User registration, secure login with password hashing, account deletion, and safe logout functionality.
 
-🛠️ Built With
+**Library Management (CRUD):**  Create: Add new books to the database.
 
-Node.js - JavaScript runtime environment
-Express.js - Web framework for backend routing
-MongoDB - NoSQL Database for storing user and book collections
-JSON Web Token (JWT) - For secure authentication and authorization
-Bcrypt - For secure password hashing
+**Read:** View a list of all available books or search for a specific book by its ID.
 
-💻 Getting Started
+**Update:** Modify existing book details.
+
+**Delete:** Remove books from the library collection.
+
+**Route Protection:**  All library modification routes are strictly protected by JSON Web Token (JWT) verification.
+
+🛠️ **Built With**
+
+**Node.js** - JavaScript runtime environment
+**Express.js**- Web framework for backend routing
+**MongoDB** - NoSQL Database for storing user and book collections
+**JSON Web Token (JWT)** - For secure authentication and authorization
+**Bcrypt** - For secure password hashing
+
+💻 **Getting Started**
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
